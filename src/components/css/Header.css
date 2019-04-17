@@ -1,0 +1,31 @@
+@import 'fonts.css';
+@import 'media.css';
+
+.header {
+    background-color: rgb(54, 54, 54);
+    background: url(images/photo_head.jpg) no-repeat center;
+    height: 400px;
+    max-width: 1300px;
+    background-image: image-set(
+        url(images/photo_head.jpg) 1x,
+        url(images/photo_head-2x.jpg) 2x
+    );
+}
+
+.tag {
+    color: white;
+    font-family:'BebasNeueRegular';
+    max-width: 800px;
+}
+
+.tag h1 {
+    font-size: 68px;
+    margin: 0;
+    margin-bottom: -18px;
+    max-width: 200px;
+}
+
+.tag h3 {
+    max-width: 200px;
+    margin: 0;
+}

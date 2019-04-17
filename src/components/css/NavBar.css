@@ -1,0 +1,25 @@
+@import 'fonts.css';
+
+.nav {
+    max-width: 1300px;
+    padding-right: 16px !important;
+}
+
+.navbar-brand {
+    max-width: 90px;
+    font-family:'BebasNeueRegular';
+}
+
+.navbar-brand h3 {
+    font-size: 36px;
+}
+
+.login {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    font-size: 15px;
+}
+
+.login a {
+    padding: 0;
+}
