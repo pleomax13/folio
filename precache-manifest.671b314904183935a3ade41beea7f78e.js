@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/folio/static/media/OpenSans-SemiboldItalic.73f7301a.ttf"
   },
   {
-    "revision": "6943fb6fd4200f3d073469325c6acdc9",
-    "url": "/folio/static/media/OpenSans-LightItalic.6943fb6f.ttf"
-  },
-  {
     "revision": "629a55a7e793da068dc580d184cc0e31",
     "url": "/folio/static/media/OpenSans-Regular.629a55a7.ttf"
+  },
+  {
+    "revision": "6943fb6fd4200f3d073469325c6acdc9",
+    "url": "/folio/static/media/OpenSans-LightItalic.6943fb6f.ttf"
   },
   {
     "revision": "33f225b8f5f7d6b34a0926f58f96c1e9",
